@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+.vite/
+.vscode/
+
+# cache
+.cache/
+*.log
+
+# environment variables
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
